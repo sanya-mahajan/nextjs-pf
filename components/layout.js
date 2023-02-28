@@ -6,9 +6,9 @@ export default function Layout({ children, home }) {
         <>
           <Image
             priority
-            src="/images/sanya-removebg.jpg"
+            src="/images/girl-bicycle-riding-mountain-road-seascape_107791-7809.avif"
             height={144}
-            width={144}
+            width={250}
             alt=""
           /><h2>Sanya</h2>
         </>
@@ -17,7 +17,7 @@ export default function Layout({ children, home }) {
           <Link href="/">
             <Image
               priority
-              src="/images/sanya-removebg.jpg"
+              src="/images/girl-bicycle-riding-mountain-road-seascape_107791-7809.avif"
               height={108}
               width={108}
               alt=""
