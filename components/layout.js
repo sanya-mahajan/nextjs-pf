@@ -10,7 +10,7 @@ export default function Layout({ children, home }) {
             height={144}
             width={250}
             alt=""
-          /><h2>Sanya</h2>
+          /><h2>...first next app...</h2>
         </>
       ) : (
         <>
